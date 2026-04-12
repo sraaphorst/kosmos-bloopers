@@ -98,7 +98,7 @@ are officially adopting a new policy: **if GPT points at the blackboard with a b
 
 ![Zorn matrices warning cartoon](zorn-matrices.png)
 
-## The Hexadecycle
+## 3. The Hexadecycle
 
 In K133, we began implementing and testing product algebras. For fun (and to poke GPT-5.4 with his own bamboo stick), I
 decided to create the hexadecycle, which has type:
@@ -113,7 +113,7 @@ stationery from the bureaucratic bunch.
 
 ![Eel hexadecycle](eel_hexadecycle.png)
 
-## The Hopf Comonocle Shopf
+## 4. The Hopf Comonocle Shopf
 
 For the discerning eel. Ask about our quinceañera quandles. Surjective surcharge for racks and shelves.
 
